@@ -1,4 +1,3 @@
-tree-hole-node
-==============
+# Tree Hole : True Scret. 树洞 : 永远重口味 #
 
-Tree Hole : True Scret.
+基于CNode搭建.
