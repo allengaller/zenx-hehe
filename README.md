@@ -1,4 +1,5 @@
-# Tree Hole : Awesome Story, Nasty Secret. 树洞 : 好故事和重口味 #
+# Tree Hole : Awesome Story, Nasty Secret.#
+__树洞 : 好故事和重口味 __
 
 基于CNode搭建.
 
